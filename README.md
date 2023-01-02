@@ -1,2 +1,2 @@
 # NoNag
-Close cloned Sublime Text without save dialog
+Quick and dirty plugin to close cloned views in Sublime Text 4 without saving changes.
